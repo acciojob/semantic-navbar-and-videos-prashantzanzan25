@@ -1,2 +1,36 @@
-
 /* Your CSS Code here. */
+body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+
+    nav {
+      background-color: #333;
+      padding: 10px;
+    }
+
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    li {
+      display: inline-block;
+      margin-right: 20px;
+    }
+
+    a {
+      text-decoration: none;
+      color: white;
+    }
+
+    h2 {
+      margin-top: 20px;
+    }
+
+    video {
+      width: 100%;
+      margin-top: 10px;
+    }
+
